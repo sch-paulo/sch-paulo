@@ -17,7 +17,7 @@
 <br>
 
 
-### Hard Skills:
+## Hard Skills:
 
 Python (pandas, numpy, matplotlib, seaborn, selenium)<br>
 SQL<br>
@@ -27,7 +27,7 @@ PowerBI<br>
 <br>
 
 
-### Soft Skills:
+## Soft Skills:
 
 Trabalho em equipe<br>
 Proatividade<br>
@@ -44,7 +44,9 @@ Inglês: Avançado <br>
 Italiano: Básico <br>
 <br>
 
+##
 
+<br>
 Neste GitHub publico e publicarei vários projetos pessoais e profissionais relacionados à análise e ciência de dados.
 <br>
 
