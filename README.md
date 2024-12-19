@@ -19,7 +19,7 @@
 
 ## Hard Skills:
 
-Python (pandas, numpy, matplotlib, seaborn, selenium)<br>
+Python (pandas, numpy, matplotlib, seaborn, selenium e scikit-learn)<br>
 SQL<br>
 Estatística descritiva e inferencial aplicada à análise de dados<br>
 Excel<br>
