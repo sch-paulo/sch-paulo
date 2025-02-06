@@ -14,7 +14,6 @@
 🌐 <a href="https://medium.com/@pschmitzjr">Medium</a>: onde compartilho alguns artigos sobre a área.<br>
 <br>
 📧 Entre em contato comigo através do e-mail pschmitzjr@gmail.com <br>
-<br>
 
 
 ## Hard Skills:
@@ -26,7 +25,6 @@ Docker<br>
 Estatística<br>
 Excel<br>
 PowerBI<br>
-<br>
 
 
 ## Soft Skills:
@@ -36,7 +34,6 @@ Proatividade<br>
 Flexibilidade<br>
 Compromentimento<br>
 Resiliência<br>
-<br>
 
 
 ## Idiomas
@@ -44,8 +41,6 @@ Resiliência<br>
 Português: Fluente <br>
 Inglês: Avançado <br> 
 Italiano: Básico <br>
-<br>
-
 ##
 
 Sinta-se à vontade para conhecer melhor meus projetos e entrar em contato.
