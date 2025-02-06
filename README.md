@@ -3,7 +3,7 @@
 
 ## Sobre mim:
 
-👋 Olá, me chamo Paulo e tenho 25 anos. 
+👋 Olá, me chamo Paulo e tenho 26 anos. 
 
 ⚙️ Tenho experiência em trabalhar com Python, SQL, PowerBI e utilizar dessas ferramentas para extrair boas ideias para o seu negócio.<br>
 <br>
@@ -11,7 +11,7 @@
 <br>
 🌐 Minhas redes:<br>
 🌐 <a href="https://www.linkedin.com/in/paulo-schmitz-junior/">Linkedin</a>: onde publico sobre a carreira de dados e dicas de ferramentas.<br>
-🌐 <a href="https://medium.com/@pschmitzjr">Medium</a>: aqui escrevo artigos sobre Análise de Dados e futuramente também Ciência de Dados.<br>
+🌐 <a href="https://medium.com/@pschmitzjr">Medium</a>: onde compartilho alguns artigos sobre a área.<br>
 <br>
 📧 Entre em contato comigo através do e-mail pschmitzjr@gmail.com <br>
 <br>
@@ -21,7 +21,9 @@
 
 Python (pandas, numpy, matplotlib, seaborn, selenium e scikit-learn)<br>
 SQL<br>
-Estatística descritiva e inferencial aplicada à análise de dados<br>
+Git<br>
+Docker<br>
+Estatística<br>
 Excel<br>
 PowerBI<br>
 <br>
@@ -45,9 +47,5 @@ Italiano: Básico <br>
 <br>
 
 ##
-
-<br>
-Neste GitHub publico e publicarei vários projetos pessoais e profissionais relacionados à análise e ciência de dados.
-<br>
 
 Sinta-se à vontade para conhecer melhor meus projetos e entrar em contato.
